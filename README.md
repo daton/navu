@@ -1,6 +1,6 @@
 # Privacy Policy Navu
-Effective March 1, 2018
-Last revised on October 22, 2020
+Effective March 1, 2019
+Last revised on 15, November 2020
 
 Navu's mission is to connect to the world through games. We offer fun social entertainment experiences to people around the world. For our mission, we collect and use certain information from our players. For Navu         In terms of open and transparent use of player information and respect for their privacy is very important.
 
