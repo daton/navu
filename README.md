@@ -1,6 +1,6 @@
 # Privacy Policy Navu
 Effective March 1, 2019
-Last revised on 15, November 2020
+Last revised on 16, November 2020
 
 Navu's mission is to connect to the world through games. We offer fun social entertainment experiences to people around the world. For our mission, we collect and use certain information from our players. For Navu         In terms of open and transparent use of player information and respect for their privacy is very important.
 
@@ -281,7 +281,7 @@ Safety and Compliance
 If necessary, we will share your information to ensure safety and compliance.
 
     
-To meet the needs of providing services, your information, all your online communications with us and with Navu will be accessed and monitored, and such information will be disclosed in the following cases: /p>
+To meet the needs of providing services, your information, all your online communications with us and with Navu will be accessed and monitored, and such information will be disclosed in the following cases:
 
 To comply with any applicable laws or regulations;
 We have good reason to disclose such information in response to the legitimate requirements of the public authorities, including for national security, law enforcement or legal process purposes (for example, court orders, search warrants or subpoenas);
@@ -347,14 +347,14 @@ All unsubscribe tools described in this paragraph are provided by third parties 
 
 Please note that you may still receive third-party ads within the Navu service after using these unsubscribe tools, but the ads you see may not be relevant to your interests.
 
-Back to top
+
 
 6. Notification
 We do not respond to the "Do Not Track" signal.
 
 At present, there is no general agreement on how to interpret the "Do Not Track" signal for companies like Navu. Navu is currently unable to respond to “Do Not Track” signals, whether they are received by a computer or by a mobile device.
 
-Back to top
+
 
 7. Link third party services and advertisers’ privacy policies.
 use your information to a third party the way (in addition to our service providers to act according to our instructions outside) assumes no responsibility.
