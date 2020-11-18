@@ -12,7 +12,11 @@ Esta aplicacion contiene una pantalla de bienvenida donde no se pide ningún tip
 La aplicación no contiene ningun tipo de lenguaje ni vocabulario dañino o inapropiado para los niños. Esta a aplicación no muestra ninguna imagen o texto violento o agresivo para los niños, tampoco muestra ningún tipo de símbolo inapropiado para los niños. La aplicación solo maneja palabras amables para todos los niños y sonidos divertidos.
 
 ## Recopilación de datos
+Esta aplicación no recopila ni envía datos a terceros ni comparte ningun tipo de información de los niños a terceros. Esta aplicación no usa en nignún sentido ni pide datos de ningún tipo de los usuarios que la descarguen e instalen en su dispositivo.
+
+En esta app tampoco se anuncian ningún tipo de producto o servicio de ningún tipo.
 
 ## Supervisión parental
+Aunque la aplicación es amigable con los niños en todo sentido, se recomienda SIEMPRE tener supervisión de los padres cuando los niños estén usado esta aplicación y en general cualquier aplicación, pues los niños pueden salir de ella y ver otros contenido que usted tenga en su celular y que puedan no ser aptos para los niños.
 
  
