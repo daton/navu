@@ -1,6 +1,6 @@
 # Política de Privacidad, Navu
 Efectiva desde: 18 de Noviembre de 2020
-Última revisión: 18 ed Noviembre de 2020
+Última revisión: 18 de Noviembre de 2020
 
 Navu se compromete a proteger la privacidad de los niños que utilizan nuestra aplicación. La principal misión de esta aplicación es proporcionar a los niños de educación básica un ambiente divertido y seguro, para aprender conceptos de ciencias y matemáticas de acuerdo a su edad.
 
