@@ -1,6 +1,6 @@
 # Política de Privacidad, Navu
 * Efectiva desde: 18 de Noviembre de 2020
-* Última revisión: 24 de Marzo de 2021
+* Última revisión: 24 de Marzo de 2021.
 
 
 ## Introducción
